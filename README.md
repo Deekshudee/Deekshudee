@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 
 
+ I am Deekshitha very much passinate about Data Science.
+ 
+ 
+ 
+  
 <!--
 **Deekshudee/Deekshudee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
