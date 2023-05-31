@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
- I am Deekshitha very much passinate about Data Science.
+ I am Deekshitha very much passinate about Data Science.I hold a certificate on completing Data Science and Machine Learning from [Jovian ](https://jovian.com/) where I have completed three major and two minor projects.
  
  [linkedin](https://www.linkedin.com/in/deekshitha-m-87925721a/)
  [Jovian](https://jovian.com/deekshudee99)
