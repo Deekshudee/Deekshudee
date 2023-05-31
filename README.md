@@ -2,6 +2,8 @@
 
  I am Deekshitha very much passinate about Data Science.
  
+ [linkedin](https://www.linkedin.com/in/deekshitha-m-87925721a/)
+ 
  
  
   
