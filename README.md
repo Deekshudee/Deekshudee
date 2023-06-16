@@ -12,12 +12,20 @@
 
 ## Projects
 
-- [Project 1: Predictive Analysis of Customer Churn](https://github.com/yourusername/project1): Developed a machine learning model to predict customer churn for a telecommunications company, resulting in a 10% decrease in churn rate.
-- [Project 2: Image Classification using Convolutional Neural Networks](https://github.com/yourusername/project2): Implemented a CNN model to classify images in a dataset of handwritten digits with 95% accuracy.
-- [Project 3: Sentiment Analysis of Twitter Data](https://github.com/yourusername/project3): Conducted sentiment analysis on a large corpus of Twitter data to gain insights into public opinion on a specific topic.
+- [Project 1:Scraping Flipkart for Product Details using Python](https://jovian.com/deekshudee99/web-scraping-flipkart-pro-1): Scrapped the data from Flipkart.com using python and libraries such as requests,beautifulsoup,pandas etc and stored the data in a csv file.
+- [Project 2: Exploratory Data Analysis of Used Vehicle](https://jovian.com/deekshudee99/copy-of-copy-of-project-2-eda21-2-2): Analyzed data for 426880 rows and 26 columns of used cars data using Pandas library.Created visualizations (scatter plots, bar plots, distplot, heatmap etc.) using Seaborn & Plotly.Finally found some insights from the dataset.
+- [Project 3: Bookshop Data Analysis using Excel & Tableau](https://jovian.com/outlink?url=https%3A%2F%2Fpublic.tableau.com%2Fapp%2Fprofile%2Fdeekshitha2445%2Fviz%2FBookshopdashboard%2FBookshopDashboard%3Fpublish%3Dyes):Developed a dashboard with Tableau to analyze Bookshop database of 56K+ rows & 38 columns.Preformed data-cleaning & created interactive graphs like bar graph, treemap etc. with filtering options.
 
+## Education
+
+- Data Science and Machine Learning, [Jovian](https://jovian.com) which is of 600+ hours of coursework, 10 coding assignments, 3 projects.
+- Bachelor of Engineering in Electronics and communication, Atria Institute of technology(VTU)[2018-2022]
  
- [linkedin](https://www.linkedin.com/in/deekshitha-m-87925721a/)
+## Contact
+
+Feel free to reach out to me via email at [deekshudee99@gmail.com]
+
+[linkedin](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)(https://www.linkedin.com/in/deekshitha-m-87925721a/)
  [Jovian](https://jovian.com/deekshudee99)
  [medium](https://medium.com/@deekshudee99)
  
