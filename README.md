@@ -27,7 +27,7 @@ Feel free to reach out to me via email at [deekshudee99@gmail.com]
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-DfXdz+5zqMzCMLF4eET4LCGB8GQnJN6i0q5gQNKIv4+O+JvWRZGGcW6YsVsl3FiM" crossorigin="anonymous">
 
-![linkedin](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)(https://www.linkedin.com/in/deekshitha-m-87925721a/)
+![(https://www.linkedin.com/in/deekshitha-m-87925721a/)](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)
  [Jovian](https://jovian.com/deekshudee99)
  [medium](https://medium.com/@deekshudee99)
  
